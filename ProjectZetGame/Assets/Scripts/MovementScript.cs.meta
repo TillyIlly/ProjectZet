@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4a89d2a2baad8e64a9d20b7e68a0d580
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - groundCheck: {fileID: 1830033451513960194, guid: 0c3bfb614799473439c2d9d6e3deea2c, type: 3}
+  - wallCheckRight: {fileID: 7751910330231455104, guid: 6a1fa27740abf0844962d223f11e5a3d, type: 3}
+  - wallCheckLeft: {fileID: 648441885372677968, guid: ff55f9924a9df4e4f95f3bfb9c6f1b8c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
