@@ -4,7 +4,7 @@ public class SpriteFollow : MonoBehaviour
 {
     [Header("Follow Settings")]
     [SerializeField] private Transform targetToFollow; // The sprite to follow
-    [SerializeField] private float followSpeed = 0.1f; // How fast to follow
+    [SerializeField] private float followSpeed = 0.8f; // How fast to follow
     [SerializeField] private Vector3 offset = Vector3.zero; // Offset from target position
     [SerializeField] private bool smoothFollow = true; // Whether to use smooth following
     
