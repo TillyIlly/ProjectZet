@@ -424,6 +424,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
+<<<<<<< Updated upstream
 --- !u!1 &383360554
 GameObject:
   m_ObjectHideFlags: 0
@@ -561,6 +562,8 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+=======
+>>>>>>> Stashed changes
 --- !u!1 &386622370
 GameObject:
   m_ObjectHideFlags: 0
@@ -2112,8 +2115,12 @@ SceneRoots:
   - {fileID: 1808116341809638664}
   - {fileID: 84463470}
   - {fileID: 808603516}
+<<<<<<< Updated upstream
 <<<<<<< HEAD
   - {fileID: 383360556}
 =======
   - {fileID: 1982865027}
 >>>>>>> 3a4f0822a89eb59c6ab7cddf9c368d61caeade21
+=======
+  - {fileID: 1982865027}
+>>>>>>> Stashed changes
